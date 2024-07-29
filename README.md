@@ -210,10 +210,8 @@
 <footer>
 
 <p style="float:left; width: 85%; text-align:center;">
-Copyright © Muhammad Raheel <br>
-You can Contact me with this link or number <br>
-mraheel.naseem@gmail.com <br>
-+923452510056
+Copyright © Muhammad rafay <br>
+
 </p>
 </footer>
 "# learn-python-rafayxhech" 
